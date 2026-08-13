@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local gallery — do not publish
+config.json
+thumb-cache/
+gallery.lock
